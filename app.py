@@ -8,7 +8,6 @@ Original file is located at
 """
 
 import pandas as pd
-!pip install streamlit
 import seaborn as sns
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import StandardScaler
